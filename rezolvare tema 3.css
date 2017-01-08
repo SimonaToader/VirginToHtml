@@ -29,6 +29,10 @@ nav {
     padding:5px;
 
 }
+.movie-titles {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
 
 table {
     font-family: arial, sans-serif;
@@ -45,3 +49,5 @@ td, th {
 tr:nth-child(even) {
     background-color: white;
 }
+#different-colors li { color: #f90; }
+different-colors li span { color: #000; }
