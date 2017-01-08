@@ -23,12 +23,13 @@ nav {
 .bar-title:hover {
     background-color: #111;
 }
-.gray-box {
-    background-color:Gainsboro;
-    color:maroon;
-    padding:5px;
 
+.gray-box {
+    background-color: Gainsboro;
+    color: maroon;
+    padding: 5px;
 }
+
 .movie-titles {
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
@@ -49,5 +50,11 @@ td, th {
 tr:nth-child(even) {
     background-color: white;
 }
-#different-colors li { color: #f90; }
-different-colors li span { color: #000; }
+
+#different-colors li {
+    color: #f90;
+}
+
+different-colors li span {
+    color: #000;
+}
